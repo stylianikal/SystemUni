@@ -16,3 +16,4 @@ SDK-17.0.1
 
 
 By Kalogirou Styliani.
+© 2023
